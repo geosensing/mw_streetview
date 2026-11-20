@@ -22,7 +22,7 @@ def main():
         files[name] = hashlib.sha256(path.read_bytes()).hexdigest()
         return path
 
-    previous = "missing_women_crowdsourced_photos_multicountry/"
+    previous = "mw_crowdphotos/"
     centers = pd.read_csv(source(previous + "data/raw/cities688.csv"))
     selected = pd.read_csv(source(previous + "outputs/selected_cities.csv"))
     sites = selected[["city_id"]].merge(centers, validate="one_to_one")
@@ -47,7 +47,7 @@ def main():
     tracks = []
     for site in ("mumbai", "navi_mumbai", "delhi", "bangalore"):
         frame = pd.read_parquet(
-            source(f"missing_women_bike_camera_india/data/{site}/analysis_data.parquet")
+            source(f"mw_bikecam_india/data/{site}/analysis_data.parquet")
         )
         points = frame.loc[
             frame.gps_valid & ~frame.gps_out_of_bounds, ["gps_lat", "gps_lon"]

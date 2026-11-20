@@ -33,7 +33,7 @@ def main():
     protocol = study / "paper/protocol"
     runner = (
         study.parent
-        / "missing_women_crowdsourced_photos_multicountry/scripts/05_muse_count.py"
+        / "mw_crowdphotos/scripts/05_muse_count.py"
     )
     expected = json.loads((protocol / "source_hashes.json").read_text())[runner.name]
     if hashlib.sha256(runner.read_bytes()).hexdigest() != expected:

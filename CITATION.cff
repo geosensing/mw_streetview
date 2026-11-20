@@ -3,4 +3,4 @@ message: "Use this citation for the replication repository."
 title: "Replication materials for Measuring Women’s and Men’s Presence on Urban Streets: Evidence from Google Street View in 98 Cities"
 authors:
   - name: Geosensing
-repository-code: "https://github.com/geosensing/missing_women_streetview_multicountry"
+repository-code: "https://github.com/geosensing/mw_streetview"

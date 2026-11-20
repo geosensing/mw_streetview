@@ -16,7 +16,7 @@ The detector skipped 7,403 images. Estimating how often it missed a person requi
 
 ## Related Research
 
-The companion study starts with photographs that people contributed to Mapillary and KartaView in 101 cities. It uses the same counting categories. Starting with street locations here lets us measure how often a sampled street fails to yield a photograph. [101-city crowdsourced study](https://github.com/geosensing/missing_women_crowdsourced_photos_multicountry) · [Earlier Street View study in India](https://github.com/geosensing/streetsight).
+The companion study starts with photographs that people contributed to Mapillary and KartaView in 101 cities. It uses the same counting categories. Starting with street locations here lets us measure how often a sampled street fails to yield a photograph. [101-city crowdsourced study](https://github.com/geosensing/mw_crowdphotos) · [Earlier Street View study in India](https://github.com/geosensing/streetsight).
 
 ## Reproduce the paper
 
