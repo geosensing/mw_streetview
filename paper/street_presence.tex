@@ -1,8 +1,8 @@
 \documentclass[11pt]{article}
 \usepackage{working-paper,graphicx,booktabs,amsmath}
-\input{../outputs/google_selection/numbers}
-\input{../outputs/google_selection/reference}
-\input{../outputs/google_selection/sightings}
+\input{../tabs/numbers}
+\input{../tabs/reference}
+\input{../tabs/sightings}
 \title{Measuring Women's and Men's Presence on Urban Streets:\\
   Evidence from Google Street View in \Sites{} Cities}
 \author{Working paper for discussion}
@@ -49,7 +49,7 @@ Muse counted people in \MWOccupied{} views and returned zero in \MWModelEmpty{} 
 \begin{table}[htbp]\centering\small
 \caption{Sightings classified by Muse in the reviewed Street View images.}
 \label{tab:counts}
-\input{../outputs/google_selection/activity}
+\input{../tabs/activity}
 \par\smallskip\parbox{.90\linewidth}{\footnotesize The denominator in each row is the number classified as women or men in that activity. Muse also returned \MWUnclear{} unclear sightings. Its response gives no activity breakdown for that category.}
 \end{table}
 
@@ -60,7 +60,7 @@ Table~\ref{tab:people-region} restricts the comparison to cities drawn in the re
 \begin{table}[htbp]\centering\small
 \caption{Classified pedestrian sightings in the regional city sample.}
 \label{tab:people-region}
-\input{../outputs/google_selection/regional_pedestrians}
+\input{../tabs/regional_pedestrians}
 \par\smallskip\parbox{.90\linewidth}{\footnotesize Drawn, imaged, and classified are city counts. A classified city contributes at least one pedestrian classified as a woman or a man. Each regional percentage pools those sightings. Cities selected only for overlap with earlier research enter Table~\ref{tab:counts} but are outside this comparison. MENA denotes the Middle East and North Africa.}
 \end{table}
 
@@ -68,11 +68,11 @@ Table~\ref{tab:people-region} restricts the comparison to cities drawn in the re
 The full lookup returned \Matches{} matches and \Misses{} confirmed misses. The number of lookups still unresolved after retries was \Errors{}. Rate denominators exclude unresolved requests. In the first 100 randomly ordered candidates per site the match rate was \PilotPct\%, compared with \MatchPct\% after checking all points. Across the probability sample, regional averages range from \RegionLow\% to \RegionHigh\%. Figure~\ref{fig:region} shows where those averages conceal differences among cities. In East Asia and the Pacific, sampled cities cluster near zero coverage or in the upper part of the distribution.
 
 \begin{figure}[ht]
-\centering\includegraphics[width=.94\linewidth]{../outputs/google_selection/regional_coverage.pdf}
+\centering\includegraphics[width=.94\linewidth]{../figs/regional_coverage.pdf}
 \caption{Google Street View coverage across the regional probability sample. Each panel counts cities in ten-percentage-point coverage bands. Coverage is the percentage of a city's resolved location lookups that returned a nearby panorama. The scales are the same in every panel.}\label{fig:region}
 \end{figure}
 \begin{table}[ht]\centering\small
-\caption{Estimated coverage of a randomly chosen eligible route position in a randomly chosen urban center, by region.}\input{../outputs/google_selection/regions}
+\caption{Estimated coverage of a randomly chosen eligible route position in a randomly chosen urban center, by region.}\input{../tabs/regions}
 \par\smallskip\parbox{.90\linewidth}{\footnotesize Within each region the city lottery gives every center equal probability. Intervals use the between-city standard error and a Student $t$ critical value. The approximation treats the city sample as drawn with replacement. Intervals are intersected with the feasible range of 0 to 100 percent. MENA denotes the Middle East and North Africa.}\end{table}
 
 
@@ -80,7 +80,7 @@ The full lookup returned \Matches{} matches and \Misses{} confirmed misses. The 
 A pooled comparison mixes differences between cities with differences among streets in the same city. If cities with extensive imagery also map more footpaths, their footpaths can lift the pooled walking-route average. To hold the comparison city constant, we subtract the local ordinary-street match rate from the local match rate for each route family, then average the differences across cities with both types. A city with few connectors counts as much as one with many. The city counts in Table~\ref{tab:routes} show where each comparison has support.
 \begin{table}[ht]\centering\small
 \caption{Availability by mapped route family in all study sites. The last column gives the mean within-city difference from ordinary streets in percentage points.}\label{tab:routes}
-\input{../outputs/google_selection/routes}\end{table}
+\input{../tabs/routes}\end{table}
 
 Pooling across cities puts walking routes above ordinary streets in match rate. The order reverses when each walking route is compared with ordinary streets in its own city. The within-city difference averages \WalkGap{} percentage points for walking routes and \ServiceGap{} for service roads. These comparisons describe the frozen sample. They do not show whether the listed street was visible, whether differences reflect mapping practices, or whether Google preferentially photographed streets with more pedestrians. Route verification matters particularly for narrow paths next to major roads. A missing photograph provides no evidence about how many people used the path.
 
