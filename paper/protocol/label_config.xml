@@ -1,0 +1,14 @@
+<View>
+  <Header value="$city ($iso3) — $region"/>
+  <KeyPointLabels name="people" toName="image" strokeWidth="2">
+    <Label value="Woman pedestrian" background="#E11D48" hotkey="1"/>
+    <Label value="Man pedestrian" background="#2563EB" hotkey="2"/>
+    <Label value="Woman two-wheeler" background="#F59E0B" hotkey="3"/>
+    <Label value="Man two-wheeler" background="#10B981" hotkey="4"/>
+    <Label value="Unclear person" background="#6B7280" hotkey="5"/>
+  </KeyPointLabels>
+  <Image name="image" value="$image" zoom="true" zoomControl="true"/>
+  <Choices name="quality" toName="image" choice="multiple" showInLine="true">
+    <Choice value="Bad / unusable image" hotkey="b"/>
+  </Choices>
+</View>

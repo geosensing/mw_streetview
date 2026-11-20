@@ -1,0 +1,182 @@
+sampling_unit,city,google_status,candidates,nearby
+prior1060000000,Hamilton,matched,975,807
+prior1060000000,Hamilton,no_panorama,25,5
+uc10056,Muhammadabad Gohna,matched,622,0
+uc10056,Muhammadabad Gohna,no_panorama,378,0
+uc10621,Changqi,no_panorama,1000,0
+uc10792,Thanam,matched,632,0
+uc10792,Thanam,no_panorama,368,0
+uc1081,Vienna,matched,878,11
+uc1081,Vienna,no_panorama,122,0
+uc10833,Baoying,matched,2,0
+uc10833,Baoying,no_panorama,998,0
+uc11101,Taixing,matched,2,0
+uc11101,Taixing,no_panorama,998,0
+uc11608,Imphal,matched,708,0
+uc11608,Imphal,no_panorama,292,0
+uc1164,San Pedro de Jujuy,matched,973,0
+uc1164,San Pedro de Jujuy,no_panorama,27,0
+uc1196,Luozi,matched,237,0
+uc1196,Luozi,no_panorama,763,0
+uc1248,Phumi Roessei,no_panorama,1000,0
+uc1290,Brussels,matched,903,17
+uc1290,Brussels,no_panorama,97,0
+uc1306,Worcester,matched,901,0
+uc1306,Worcester,no_panorama,99,0
+uc1365,Tegucigalpa,matched,56,5
+uc1365,Tegucigalpa,no_panorama,944,15
+uc1399,Tunis,matched,278,8
+uc1399,Tunis,no_panorama,722,0
+uc1648,Kuala Lumpur,matched,843,9
+uc1648,Kuala Lumpur,no_panorama,157,0
+uc1693,Stockholm,matched,912,3
+uc1693,Stockholm,no_panorama,88,0
+uc1745,Chitose,matched,970,0
+uc1745,Chitose,no_panorama,30,0
+uc1750,Santa María Nebaj,matched,100,0
+uc1750,Santa María Nebaj,no_panorama,900,0
+uc1884,Mufulira,matched,1,0
+uc1884,Mufulira,no_panorama,999,0
+uc1976,Massinga,no_panorama,1000,0
+uc2157,Phetchaburi,matched,916,0
+uc2157,Phetchaburi,no_panorama,84,0
+uc2167,Pleasanton,matched,941,0
+uc2167,Pleasanton,no_panorama,59,0
+uc2221,Baku,matched,212,14
+uc2221,Baku,no_panorama,788,1
+uc2368,Al-Rastan,no_panorama,1000,0
+uc2424,Hamm,matched,832,0
+uc2424,Hamm,no_panorama,168,0
+uc2583,Durbete,no_panorama,1000,0
+uc261,Zadar,matched,945,0
+uc261,Zadar,no_panorama,55,0
+uc2710,Nicoadala,no_panorama,1000,0
+uc2711,Aykel,no_panorama,1000,0
+uc2762,Makanza,no_panorama,1000,0
+uc2884,Trento,matched,929,0
+uc2884,Trento,no_panorama,71,0
+uc2892,Sisulu Village,matched,802,0
+uc2892,Sisulu Village,no_panorama,198,0
+uc2992,Los Ángeles,matched,922,0
+uc2992,Los Ángeles,no_panorama,78,0
+uc3003,Nijmegen,matched,954,62
+uc3003,Nijmegen,no_panorama,46,0
+uc312,Yerevan,matched,302,17
+uc312,Yerevan,no_panorama,698,1
+uc3209,Phatthalung,matched,965,0
+uc3209,Phatthalung,no_panorama,35,0
+uc3237,Ferrara,matched,886,0
+uc3237,Ferrara,no_panorama,114,0
+uc3274,Durango,matched,913,0
+uc3274,Durango,no_panorama,87,0
+uc3418,Nurabad,matched,1,0
+uc3418,Nurabad,no_panorama,999,0
+uc3519,Jafar Muhammad Ali,matched,6,0
+uc3519,Jafar Muhammad Ali,no_panorama,994,0
+uc3843,Stoke-on-Trent,matched,897,1
+uc3843,Stoke-on-Trent,no_panorama,103,0
+uc4048,Miyazaki,matched,987,0
+uc4048,Miyazaki,no_panorama,13,0
+uc4233,Mota,no_panorama,1000,0
+uc4237,Rishtan,matched,1,0
+uc4237,Rishtan,no_panorama,999,0
+uc426,Sarajevo,matched,934,76
+uc426,Sarajevo,no_panorama,66,2
+uc4478,León,matched,904,0
+uc4478,León,no_panorama,96,0
+uc4680,Kadiivka,matched,1,0
+uc4680,Kadiivka,no_panorama,999,0
+uc4685,Dhamar,no_panorama,1000,0
+uc4689,Karak,matched,36,0
+uc4689,Karak,no_panorama,964,0
+uc4856,Tamiya,no_panorama,1000,0
+uc4880,Trindade,matched,972,0
+uc4880,Trindade,no_panorama,28,0
+uc489,Wennappuwa,matched,488,0
+uc489,Wennappuwa,no_panorama,512,0
+uc5029,Yangon,matched,170,6
+uc5029,Yangon,no_panorama,830,5
+uc5071,Barcelona,matched,926,12
+uc5071,Barcelona,no_panorama,74,0
+uc5174,Tehran,matched,190,1
+uc5174,Tehran,no_panorama,810,0
+uc520,Machiques,matched,3,0
+uc520,Machiques,no_panorama,997,0
+uc5239,Ho Chi Minh City,matched,834,0
+uc5239,Ho Chi Minh City,no_panorama,166,0
+uc5246,Loughborough,matched,910,0
+uc5246,Loughborough,no_panorama,90,0
+uc54,Derry/Londonderry,matched,939,0
+uc54,Derry/Londonderry,no_panorama,61,0
+uc5544,Mong Maw;Mongmao,no_panorama,1000,0
+uc5545,Gia Kiệm,matched,813,0
+uc5545,Gia Kiệm,no_panorama,187,0
+uc5570,Palabuhanratu,matched,654,0
+uc5570,Palabuhanratu,no_panorama,346,0
+uc5929,Tokyo,matched,974,11
+uc5929,Tokyo,no_panorama,26,0
+uc5991,Ogharefe,matched,146,0
+uc5991,Ogharefe,no_panorama,854,0
+uc5992,Lubutu,no_panorama,1000,0
+uc5998,Bhakkar,matched,3,0
+uc5998,Bhakkar,no_panorama,997,0
+uc6170,Isanlu Mopo,matched,372,0
+uc6170,Isanlu Mopo,no_panorama,628,0
+uc6311,Hazro,matched,76,0
+uc6311,Hazro,no_panorama,924,0
+uc6452,Malerkotla,matched,890,0
+uc6452,Malerkotla,no_panorama,110,0
+uc6492,Bingöl,matched,738,0
+uc6492,Bingöl,no_panorama,262,0
+uc6525,Sarvestan,matched,97,0
+uc6525,Sarvestan,no_panorama,903,0
+uc6616,Fateh Jang,no_panorama,1000,0
+uc6652,Lincoln,matched,978,0
+uc6652,Lincoln,no_panorama,22,0
+uc68,Luxembourg,matched,916,101
+uc68,Luxembourg,no_panorama,84,8
+uc7104,Salto,matched,960,0
+uc7104,Salto,no_panorama,40,0
+uc7219,Atlanta,matched,940,4
+uc7219,Atlanta,no_panorama,60,0
+uc7429,Vapi,matched,897,0
+uc7429,Vapi,no_panorama,103,0
+uc7599,Mumbai,matched,872,3
+uc7599,Mumbai,no_panorama,128,0
+uc7959,Baltimore,matched,928,13
+uc7959,Baltimore,no_panorama,72,0
+uc7963,New Delhi,matched,806,2
+uc7963,New Delhi,no_panorama,194,1
+uc7970,Tonk,matched,897,0
+uc7970,Tonk,no_panorama,103,0
+uc8064,Crato,matched,941,2
+uc8064,Crato,no_panorama,59,0
+uc8081,Easton,matched,949,0
+uc8081,Easton,no_panorama,51,0
+uc8183,New Haven,matched,916,32
+uc8183,New Haven,no_panorama,84,0
+uc8255,Boston,matched,912,22
+uc8255,Boston,no_panorama,88,0
+uc8264,Sikandra,matched,721,0
+uc8264,Sikandra,no_panorama,279,0
+uc8687,Quwo,no_panorama,1000,0
+uc87,Valletta,lookup_error,1,0
+uc87,Valletta,matched,901,36
+uc87,Valletta,no_panorama,98,1
+uc8892,Sitarganj,matched,680,0
+uc8892,Sitarganj,no_panorama,320,0
+uc8949,Gaoping,no_panorama,1000,0
+uc9148,Koppala,matched,880,0
+uc9148,Koppala,no_panorama,120,0
+uc9414,Fatehpur,matched,822,0
+uc9414,Fatehpur,no_panorama,178,0
+uc9462,Tumakuru,matched,919,30
+uc9462,Tumakuru,no_panorama,81,0
+uc9558,Bengaluru,matched,951,0
+uc9558,Bengaluru,no_panorama,49,0
+uc9910,Campierganj,matched,185,0
+uc9910,Campierganj,no_panorama,815,0
+uc9912,Narsampet,matched,800,0
+uc9912,Narsampet,no_panorama,200,0
+uc992,Amman,matched,350,5
+uc992,Amman,no_panorama,650,0

@@ -1,0 +1,9 @@
+You are coding street-level photographs for a demographic study of public space.
+The attached image is a {cols}x{rows} contact sheet containing {n} numbered panels ([1]..[{n}] in reading order, left-to-right, top-to-bottom).
+For EACH numbered panel, count visible people in public space (exclude people inside enclosed cars/buses/trucks, and exclude posters, billboards, mannequins, or statues):
+- women_count: adult or adolescent women/girls walking or standing (pedestrians, not on vehicles)
+- men_count: adult or adolescent men/boys walking or standing (pedestrians, not on vehicles)
+- women_twowheeler: women/girls riding bicycles, motorcycles, or scooters
+- men_twowheeler: men/boys riding bicycles, motorcycles, or scooters
+- unclear_count: pedestrians or riders too small, blurred, or occluded to classify by sex
+Return JSON with one entry per panel slot 1..{n}. Do not skip any panel.
